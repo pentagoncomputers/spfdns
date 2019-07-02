@@ -1,0 +1,12 @@
+'''
+Rename to settings.py and set the values below.
+
+@author: dermot@pentagoncomputers.com
+@copyright: Pentagon Computers Ltd, 2019.
+'''
+
+
+DB_LOCAL_USERNAME='db_user'
+DB_LOCAL_PASSWORD='db_password'
+DB_LOCAL_DATABASE='database_name'
+DB_LOCAL_HOST='localhost'
